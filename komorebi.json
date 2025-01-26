@@ -1,0 +1,82 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LGUG2Z/komorebi/v0.1.31/schema.json",
+  "app_specific_configuration_path": "$Env:KOMOREBI_CONFIG_HOME/applications.json",
+  "animation": {
+    "duration": 244,
+    "enabled": true,
+    "style": "EaseInOutQuint",
+    "fps": 60
+  },
+  "border": true,
+  "border_colours": {
+    "monocle": "#ffffff",
+    "single": "#89b4fa",
+    "stack": "#89b4fa",
+    "unfocused": "#ffffff"
+  },
+  "border_implementation": "Komorebi",
+  "border_offset": -1,
+  "border_style": "System",
+  "border_width": 5,
+  "cross_monitor_move_behaviour": "Insert",
+  "default_container_padding": 10,
+  "default_workspace_padding": 10,
+  "mouse_follows_focus": true,
+  "stackbar": {
+    "tabs": {
+      "font_size": 0,
+      "width": 300,
+      "font_family": "Segoe UI",
+      "unfocused_text": "#ffffff",
+      "focused_text": "#ffffff",
+      "background": "#ffffff"
+    },
+    "height": 40,
+    "label": "Process",
+    "mode": "OnStack"
+  },
+  "transparency": true,
+  "transparency_alpha": 240,
+  "window_hiding_behaviour": "Cloak",
+  "monitors": [
+    {
+      "workspaces": [
+        {
+          "name": "I",
+          "layout": "BSP"
+        },
+        {
+          "name": "II",
+          "layout": "VerticalStack"
+        },
+        {
+          "name": "III",
+          "layout": "HorizontalStack"
+        },
+        {
+          "name": "IV",
+          "layout": "UltrawideVerticalStack"
+        },
+        {
+          "name": "V",
+          "layout": "Rows"
+        },
+        {
+          "name": "VI",
+          "layout": "Grid"
+        },
+        {
+          "name": "VII",
+          "layout": "RightMainVerticalStack"
+        }
+      ]
+    }
+  ],
+  "ignore_rules": [
+    {
+      "kind": "Exe",
+      "matching_strategy": "Legacy",
+      "id": "SkyrimSE.exe"
+    }
+  ]
+}
