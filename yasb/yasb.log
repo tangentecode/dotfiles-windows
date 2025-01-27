@@ -4140,3 +4140,76 @@
 2025-01-26 14:00:41 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-e56bd09e-dc30-11ef-a7ae-3c7c3f22cbd9
 2025-01-26 14:00:41 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
 2025-01-26 14:00:51 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-e56bd09e-dc30-11ef-a7ae-3c7c3f22cbd9
+2025-01-26 14:10:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 14:10:03.424302
+2025-01-26 14:10:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 14:10:03.694952
+2025-01-26 14:20:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 14:20:03.443912
+2025-01-26 14:20:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 14:20:03.701736
+2025-01-26 14:30:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 14:30:03.447661
+2025-01-26 14:30:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 14:30:03.698408
+2025-01-26 14:40:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 14:40:03.442654
+2025-01-26 14:40:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 14:40:03.693907
+2025-01-26 14:50:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 14:50:03.449923
+2025-01-26 14:50:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 14:50:03.690298
+2025-01-26 15:00:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 15:00:03.443237
+2025-01-26 15:00:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 15:00:03.689235
+2025-01-26 15:10:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 15:10:03.446061
+2025-01-26 15:10:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 15:10:03.691353
+2025-01-26 15:20:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 15:20:03.440366
+2025-01-26 15:20:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 15:20:03.695400
+2025-01-26 15:30:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 15:30:03.443876
+2025-01-26 15:30:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 15:30:03.690922
+2025-01-26 15:40:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 15:40:03.443647
+2025-01-26 15:40:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 15:40:03.689812
+2025-01-26 15:50:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 15:50:03.452472
+2025-01-26 15:50:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 15:50:03.699888
+2025-01-26 16:00:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 16:00:03.451603
+2025-01-26 16:00:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 16:00:03.696587
+2025-01-26 16:10:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 16:10:03.452473
+2025-01-26 16:10:03 INFO weather.py:158: Fetched new weather data at 2025-01-26 16:10:03.696125
+2025-01-26 16:10:15 INFO bar_manager.py:64: Screens updated. Re-initialising all bars.
+2025-01-26 16:10:15 INFO log.py:21: Yasb
+2025-01-26 16:10:15 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-26 16:10:16 INFO weather.py:158: Fetched new weather data at 2025-01-26 16:10:16.042107
+2025-01-26 16:10:16 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-26 16:10:16 INFO event_listener.py:52: Created named pipe yasb-163d94b1-dc43-11ef-9c33-3c7c3f22cbd9
+2025-01-26 16:10:16 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-163d94b1-dc43-11ef-9c33-3c7c3f22cbd9
+2025-01-26 16:10:16 INFO watcher.py:39: Created file watcher for path C:\Users\Admin\.config\yasb
+2025-01-26 16:10:16 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-26 16:10:16 DEBUG _windows.py:192: Thread started
+2025-01-26 16:10:16 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-163d94b1-dc43-11ef-9c33-3c7c3f22cbd9
+2025-01-26 16:10:16 INFO bar_manager.py:64: Screens updated. Re-initialising all bars.
+2025-01-26 16:10:17 INFO log.py:21: Yasb
+2025-01-26 16:10:17 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-26 16:10:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 16:10:17.347888
+2025-01-26 16:10:17 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2025-01-26 16:10:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 16:10:17.680553
+2025-01-26 16:10:17 INFO event_listener.py:52: Created named pipe yasb-16ed1a59-dc43-11ef-812a-3c7c3f22cbd9
+2025-01-26 16:10:17 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-16ed1a59-dc43-11ef-812a-3c7c3f22cbd9
+2025-01-26 16:10:17 INFO watcher.py:39: Created file watcher for path C:\Users\Admin\.config\yasb
+2025-01-26 16:10:17 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-26 16:10:17 DEBUG _windows.py:192: Thread started
+2025-01-26 16:10:17 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-16ed1a59-dc43-11ef-812a-3c7c3f22cbd9
+2025-01-26 16:20:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 16:20:17.348443
+2025-01-26 16:20:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 16:20:17.674837
+2025-01-26 16:30:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 16:30:17.347663
+2025-01-26 16:30:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 16:30:17.677300
+2025-01-26 16:40:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 16:40:17.346959
+2025-01-26 16:40:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 16:40:17.675681
+2025-01-26 16:50:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 16:50:17.351492
+2025-01-26 16:50:17 ERROR weather.py:213: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-26 16:50:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 16:50:17.676493
+2025-01-26 16:50:17 ERROR weather.py:213: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-26 17:00:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 17:00:17.353132
+2025-01-26 17:00:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 17:00:17.672870
+2025-01-26 17:10:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 17:10:17.349690
+2025-01-26 17:10:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 17:10:17.677328
+2025-01-26 17:20:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 17:20:17.345638
+2025-01-26 17:20:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 17:20:17.685519
+2025-01-26 17:30:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 17:30:17.353145
+2025-01-26 17:30:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 17:30:17.674358
+2025-01-26 17:40:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 17:40:17.348110
+2025-01-26 17:40:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 17:40:17.680036
+2025-01-26 17:50:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 17:50:17.346411
+2025-01-26 17:50:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 17:50:17.673071
+2025-01-26 18:00:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 18:00:17.355159
+2025-01-26 18:00:17 INFO weather.py:158: Fetched new weather data at 2025-01-26 18:00:17.688545

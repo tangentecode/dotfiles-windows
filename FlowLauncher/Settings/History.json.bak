@@ -1,0 +1,132 @@
+{
+  "Items": [
+    {
+      "Query": "pm install PyRepl",
+      "ExecutedDateTime": "2024-12-21T12:53:38.5310306-08:00"
+    },
+    {
+      "Query": "pm install Win Hotkey",
+      "ExecutedDateTime": "2024-12-21T12:56:49.5740375-08:00"
+    },
+    {
+      "Query": "pm install AnyVideo Downloader",
+      "ExecutedDateTime": "2024-12-21T12:57:25.1580311-08:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2024-12-22T01:34:38.3281952-08:00"
+    },
+    {
+      "Query": "FLO",
+      "ExecutedDateTime": "2024-12-22T01:35:58.9594425-08:00"
+    },
+    {
+      "Query": "FIRE",
+      "ExecutedDateTime": "2024-12-22T01:36:06.321969-08:00"
+    },
+    {
+      "Query": "SPO",
+      "ExecutedDateTime": "2024-12-22T01:38:59.0999382-08:00"
+    },
+    {
+      "Query": "FIRE",
+      "ExecutedDateTime": "2024-12-22T01:40:06.2468714-08:00"
+    },
+    {
+      "Query": "fire",
+      "ExecutedDateTime": "2024-12-22T02:04:50.5383679-08:00"
+    },
+    {
+      "Query": "fi",
+      "ExecutedDateTime": "2024-12-22T02:12:58.951218-08:00"
+    },
+    {
+      "Query": "sea",
+      "ExecutedDateTime": "2024-12-22T02:17:28.094132-08:00"
+    },
+    {
+      "Query": "ko",
+      "ExecutedDateTime": "2024-12-22T02:20:14.005131-08:00"
+    },
+    {
+      "Query": "ev",
+      "ExecutedDateTime": "2024-12-22T02:28:35.1664522-08:00"
+    },
+    {
+      "Query": "sea",
+      "ExecutedDateTime": "2024-12-22T02:28:39.4360912-08:00"
+    },
+    {
+      "Query": "ope",
+      "ExecutedDateTime": "2024-12-24T00:46:58.5506383-08:00"
+    },
+    {
+      "Query": "se",
+      "ExecutedDateTime": "2024-12-24T04:13:47.3762982-08:00"
+    },
+    {
+      "Query": "sea",
+      "ExecutedDateTime": "2024-12-24T04:33:12.5437977-08:00"
+    },
+    {
+      "Query": "7zi",
+      "ExecutedDateTime": "2024-12-24T04:40:42.2212333-08:00"
+    },
+    {
+      "Query": "pm install Add2Path",
+      "ExecutedDateTime": "2024-12-24T07:10:41.5661561-08:00"
+    },
+    {
+      "Query": "path",
+      "ExecutedDateTime": "2024-12-24T07:11:05.834029-08:00"
+    },
+    {
+      "Query": "path list",
+      "ExecutedDateTime": "2024-12-24T07:11:19.1719121-08:00"
+    },
+    {
+      "Query": "pm u",
+      "ExecutedDateTime": "2024-12-24T07:11:25.0960524-08:00"
+    },
+    {
+      "Query": "set",
+      "ExecutedDateTime": "2024-12-26T09:07:41.7865264-08:00"
+    },
+    {
+      "Query": "se",
+      "ExecutedDateTime": "2024-12-26T10:10:04.3814579-08:00"
+    },
+    {
+      "Query": "sea",
+      "ExecutedDateTime": "2025-01-06T01:19:34.6196878-08:00"
+    },
+    {
+      "Query": "con",
+      "ExecutedDateTime": "2025-01-06T01:20:07.132631-08:00"
+    },
+    {
+      "Query": "ob",
+      "ExecutedDateTime": "2025-01-15T05:06:02.4977352-08:00"
+    },
+    {
+      "Query": "spo",
+      "ExecutedDateTime": "2025-01-15T05:08:20.8823826-08:00"
+    },
+    {
+      "Query": "ob",
+      "ExecutedDateTime": "2025-01-15T08:31:19.7253379-08:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2025-01-18T06:08:57.3846199-08:00"
+    },
+    {
+      "Query": "qb",
+      "ExecutedDateTime": "2025-01-18T06:54:42.2810739-08:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2025-01-24T16:16:02.4859613-08:00"
+    }
+  ]
+}

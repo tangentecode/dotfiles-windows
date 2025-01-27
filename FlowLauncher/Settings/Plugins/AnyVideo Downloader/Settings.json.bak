@@ -1,0 +1,6 @@
+{
+  "preferred_video_format": "mp4",
+  "preferred_audio_format": "mp3",
+  "download_path": "%USERPROFILE%\\Downloads",
+  "sorting_order": "Resolution"
+}
