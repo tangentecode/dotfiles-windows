@@ -4,15 +4,15 @@
   "animation": {
     "duration": 244,
     "enabled": true,
-    "style": "EaseInOutQuint",
-    "fps": 60
+    "fps": 60,
+    "style": "EaseInOutQuint"
   },
   "border": true,
   "border_colours": {
     "monocle": "#ffffff",
+    "unfocused": "#ffffff",
     "single": "#89b4fa",
-    "stack": "#89b4fa",
-    "unfocused": "#ffffff"
+    "stack": "#89b4fa"
   },
   "border_implementation": "Komorebi",
   "border_offset": -1,
@@ -24,12 +24,12 @@
   "mouse_follows_focus": true,
   "stackbar": {
     "tabs": {
-      "font_size": 0,
       "width": 300,
-      "font_family": "Segoe UI",
-      "unfocused_text": "#ffffff",
+      "background": "#ffffff",
+      "font_size": 0,
       "focused_text": "#ffffff",
-      "background": "#ffffff"
+      "font_family": "Segoe UI",
+      "unfocused_text": "#ffffff"
     },
     "height": 40,
     "label": "Process",
@@ -77,6 +77,16 @@
       "kind": "Exe",
       "matching_strategy": "Legacy",
       "id": "SkyrimSE.exe"
+    },
+    {
+      "kind": "Class",
+      "matching_strategy": "Legacy",
+      "id": "SDL_app"
+    },
+    {
+      "kind": "Class",
+      "matching_strategy": "Legacy",
+      "id": "GLFW30"
     }
   ]
 }
